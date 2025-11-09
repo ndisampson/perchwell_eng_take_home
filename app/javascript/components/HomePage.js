@@ -1,11 +1,8 @@
 import React from 'react';
+import Login from './auth/Login';
 
 const HomePage = () => {
-  return (
-    <div>
-      <h3>Hello from React!</h3>
-    </div>
-  );
+  return <Login />;
 };
 
 export default HomePage;
