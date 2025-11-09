@@ -1,0 +1,192 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Buildings matches snapshot after buildings load 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-0"
+  >
+    <div
+      class="MuiToolbar-root MuiToolbar-regular css-1ph6wjs-MuiToolbar-root"
+    >
+      <h2
+        class="MuiTypography-root MuiTypography-h4 css-f84ov1-MuiTypography-root"
+      >
+        Buildings
+      </h2>
+      <a
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary css-74d805-MuiButtonBase-root-MuiButton-root"
+        href="/buildings/new"
+        tabindex="0"
+      >
+        New Building
+      </a>
+    </div>
+    <div
+      class="MuiBox-root css-1m5rb0e"
+    >
+      <div
+        class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-196bwzp-MuiPaper-root-MuiCard-root"
+      >
+        <button
+          class="MuiButtonBase-root MuiCardActionArea-root css-coyn9m-MuiButtonBase-root-MuiCardActionArea-root"
+          tabindex="0"
+          type="button"
+        >
+          <div
+            class="MuiBox-root css-1o0u402"
+          />
+          <div
+            class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
+          >
+            <div
+              class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1jrq8e9-MuiTypography-root"
+            >
+              Client One
+            </div>
+            <p
+              class="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-1bub9p-MuiTypography-root"
+            >
+              123 Main St, New York, NY, 10001
+            </p>
+            <div
+              class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-y232lc-MuiChip-root"
+            >
+              <span
+                class="MuiChip-label MuiChip-labelSmall css-eccknh-MuiChip-label"
+              >
+                ID: 1
+              </span>
+            </div>
+            <hr
+              class="MuiDivider-root MuiDivider-fullWidth css-zzw4lh-MuiDivider-root"
+            />
+            <div
+              class="MuiStack-root css-jfdv4h-MuiStack-root"
+            >
+              <div
+                class="MuiBox-root css-69i1ev"
+              >
+                <p
+                  class="MuiTypography-root MuiTypography-body2 css-1wle3ir-MuiTypography-root"
+                >
+                  Nickname
+                </p>
+                <p
+                  class="MuiTypography-root MuiTypography-body2 css-1n8v0zg-MuiTypography-root"
+                >
+                  HQ
+                </p>
+              </div>
+            </div>
+          </div>
+          <span
+            class="MuiCardActionArea-focusHighlight css-1h5un5t-MuiCardActionArea-focusHighlight"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      class="MuiStack-root css-11we5dd-MuiStack-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary Mui-disabled MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary css-74d805-MuiButtonBase-root-MuiButton-root"
+        disabled=""
+        tabindex="-1"
+        type="button"
+      >
+        Prev
+      </button>
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-rizt0-MuiTypography-root"
+      >
+        Page 1 / 1
+      </p>
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary Mui-disabled MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary css-74d805-MuiButtonBase-root-MuiButton-root"
+        disabled=""
+        tabindex="-1"
+        type="button"
+      >
+        Next
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Buildings matches snapshot when an error occurs 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-0"
+  >
+    <div
+      class="MuiToolbar-root MuiToolbar-regular css-1ph6wjs-MuiToolbar-root"
+    >
+      <h2
+        class="MuiTypography-root MuiTypography-h4 css-f84ov1-MuiTypography-root"
+      >
+        Buildings
+      </h2>
+      <a
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary css-74d805-MuiButtonBase-root-MuiButton-root"
+        href="/buildings/new"
+        tabindex="0"
+      >
+        New Building
+      </a>
+    </div>
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiAlert-root MuiAlert-colorError MuiAlert-standardError MuiAlert-standard css-6js25r-MuiPaper-root-MuiAlert-root"
+      role="alert"
+      style="--Paper-shadow: none;"
+    >
+      <div
+        class="MuiAlert-icon css-vab54s-MuiAlert-icon"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit css-1ckov0h-MuiSvgIcon-root"
+          data-testid="ErrorOutlineIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M11 15h2v2h-2zm0-8h2v6h-2zm.99-5C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+          />
+        </svg>
+      </div>
+      <div
+        class="MuiAlert-message css-zioonp-MuiAlert-message"
+      >
+        Network error
+      </div>
+    </div>
+    <div
+      class="MuiStack-root css-11we5dd-MuiStack-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary Mui-disabled MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary css-74d805-MuiButtonBase-root-MuiButton-root"
+        disabled=""
+        tabindex="-1"
+        type="button"
+      >
+        Prev
+      </button>
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-rizt0-MuiTypography-root"
+      >
+        Page 1 / 1
+      </p>
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary Mui-disabled MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary css-74d805-MuiButtonBase-root-MuiButton-root"
+        disabled=""
+        tabindex="-1"
+        type="button"
+      >
+        Next
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
